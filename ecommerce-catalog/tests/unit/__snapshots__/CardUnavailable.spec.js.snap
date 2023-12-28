@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardUnavailable.vue should render correctly 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <!-- div tag for parent unavailable card product section -->
+  <div
+    class="container-unavailable"
+  >
+    <!-- child unavailable card product section -->
+    <div
+      class="main-unavailable"
+    >
+      <!-- p tag used for render description unvailable product except men or women category product -->
+      <p
+        class="desc-unavailable"
+      >
+        This product is unavailable to show
+      </p>
+      <!-- button tag used for even handling with v-on directive attribute while click, renders each card products -->
+      <button
+        class="button-unavailable"
+      >
+         Next product 
+      </button>
+      <!-- this tag used to parent image background unavailable product section -->
+      <div
+        class="image-background"
+      >
+        <img
+          alt="Sad Face image"
+          class="face-sad"
+          src=""
+        />
+      </div>
+    </div>
+  </div>
+  
+</div>
+`;
