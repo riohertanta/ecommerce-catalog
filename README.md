@@ -1,6 +1,6 @@
 <h1 align="center" id="title">E-commerce Website</h1>
 
-<p align="center"><img src="https://socialify.git.ci/richardgery/ecommerce-catalog/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/riohertanta/ecommerce-catalog/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">This website displays a series of products in the category of men's clothing and women's clothing. Only 1 product is displayed but it will change every time the user presses the Next Product button. Each product data is obtained from the API https://fakestoreapi.com for the categories of men's clothing and women's clothing besides these categories will display products that are not available.</p>
 
